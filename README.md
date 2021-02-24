@@ -1,3 +1,24 @@
+# Minimal Todo-App
+Minimal Todo-App is a simple app 💻 that helps organize your daily & weekly todos.
+It was developed using React & Material UI.
+
+
+## Motivation
+The motivation behind this project was learn the fundamentals of React and Material UI.
+Overall, I learned that React and Material UI are awesome.✨
+
+## Screenshots
+ *Under Construction*
+
+## Tech/framework used
+**Built with the following**
+  - https://reactjs.org/
+  - https://material-ui.com/
+  - ~https://www.typescriptlang.org/~ Future Plans
+
+## Credits
+Huge thanks to my Mentor https://bigsondev.com/library/ who inspired me to start and complete this project.😁😁
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
