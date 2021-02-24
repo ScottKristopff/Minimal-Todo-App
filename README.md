@@ -4,7 +4,7 @@ It was developed using React & Material UI.
 
 
 ## Motivation
-The motivation behind this project was learn the fundamentals of React and Material UI.
+The motivation behind this project was to learn the fundamentals of React and Material UI.
 Overall, I learned that React and Material UI are awesome.✨
 
 ## Screenshots
