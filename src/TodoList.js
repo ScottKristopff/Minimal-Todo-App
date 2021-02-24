@@ -1,5 +1,5 @@
 import React from 'react'
-import { Grid, Tooltip } from '@material-ui/core'
+import { Grid } from '@material-ui/core'
 import { EditTodoButton } from './EditTodoButton'
 import { DeleteTodoButton } from './DeleteTodoButton'
 import { makeStyles } from '@material-ui/styles'
@@ -41,26 +41,22 @@ export const TodoList = ({ todos, setTodos, onComplete }) => {
                                 }`}
                             />
                             <ListItemSecondaryAction>
-                                <Tooltip title="Edit">
-                                    <IconButton>
-                                        <EditTodoButton
-                                            todos={todos}
-                                            setTodos={setTodos}
-                                            text={text}
-                                            id={id}
-                                        />
-                                    </IconButton>
-                                </Tooltip>
-                                <Tooltip title="Delete">
-                                    <IconButton>
-                                        <DeleteTodoButton
-                                            todos={todos}
-                                            setTodos={setTodos}
-                                            text={text}
-                                            id={id}
-                                        />
-                                    </IconButton>
-                                </Tooltip>
+                                <IconButton>
+                                    <EditTodoButton
+                                        todos={todos}
+                                        setTodos={setTodos}
+                                        text={text}
+                                        id={id}
+                                    />
+                                </IconButton>
+                                <IconButton>
+                                    <DeleteTodoButton
+                                        todos={todos}
+                                        setTodos={setTodos}
+                                        text={text}
+                                        id={id}
+                                    />
+                                </IconButton>
                             </ListItemSecondaryAction>
                         </ListItem>
                     </List>
