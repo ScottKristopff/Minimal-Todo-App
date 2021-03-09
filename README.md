@@ -8,7 +8,10 @@ The motivation behind this project was to learn the fundamentals of React and Ma
 Overall, I learned that React and Material UI are awesome.✨
 
 ## Screenshots
- *Under Construction*
+![Todo App 1](https://user-images.githubusercontent.com/64885782/110527385-e5215d80-80e4-11eb-8afc-ee3900044e09.PNG)
+![Todo App 2](https://user-images.githubusercontent.com/64885782/110527394-e783b780-80e4-11eb-85f1-0d40dfb979d3.PNG)
+![Todo App 3](https://user-images.githubusercontent.com/64885782/110527401-e9e61180-80e4-11eb-800e-0e33e04d0607.PNG)
+
 
 ## Tech/framework used
 **Built with the following**
