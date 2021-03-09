@@ -17,7 +17,7 @@ Overall, I learned that React and Material UI are awesome.✨
 **Built with the following**
   - https://reactjs.org/
   - https://material-ui.com/
-  - ~https://www.typescriptlang.org/~ Future Plans
+  - https://www.typescriptlang.org/
 
 ## Credits
 Huge thanks to my Mentor https://bigsondev.com/library/ who inspired me to start and complete this project.😁😁
